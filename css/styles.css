@@ -1,0 +1,75 @@
+h2 {
+  color: #7CB02C;
+  margin-bottom: 1em;
+}
+
+h5 {
+margin-left: 1em;
+}
+
+
+.lilaleiste {
+  background-color: #B764D4;
+}
+
+.modal-body,
+.modal-footer,
+.modal-header {
+  background-color: #BFAA30;
+}
+
+.jumbotron {
+  background-color: #7CB02C;
+}
+
+.card-icon {
+  width: 2em;
+  height: 2em;
+  float: right;
+  position: relative;
+  padding: 0.3em;
+}
+
+.card-title {
+position: relative;
+padding-top: 0.3em
+}
+
+
+.form-group {
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+}
+
+.unten {
+  position: relative;
+  margin-top: 2em;
+}
+
+.card-body {
+  background-color: #B764D4;
+}
+
+.img-thumbnail {
+  margin: 1em;
+  width: 90%;
+}
+
+.bottomimage {
+  width: 2em;
+}
+
+.formappointment {
+  position: relative;
+  padding-top: 2em;
+}
+
+#appointment,
+#faq,
+#contact {
+  margin-top: 6em;
+}
+
+#contact {
+  margin-bottom: 6em;
+}
